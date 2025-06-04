@@ -421,7 +421,8 @@ This example shows how to use OIDC authentication with GCP Vertex AI:
 To use OAuth authentication with your Claude Max Subscription Plan:
 
 0. Login into Claude Code with your Claude Max Subscription with `/login`:
-   - Lookup your access token, refresh token and expires at values: `cat ~/.claude/.credentials.json` 
+
+   - Lookup your access token, refresh token and expires at values: `cat ~/.claude/.credentials.json`
 
 1. Add your OAuth credentials as repository secrets:
 
